@@ -9,7 +9,7 @@
 #on each task requiring an output, ensure the task goes on a separate line (unless stated)
 #and ensure that it states the task number prior to any output e.g. Task 11 
 #upload your final file to your assigned folder share on class.net
-# \\192.168.130.21\chshare\regiNumber
+# \\192.168.68.114\test-sub\regiNumber
 
 #####################################################
 #Section 1 25 Marks
